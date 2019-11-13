@@ -1,5 +1,3 @@
-
-change route to the app route and delete this line Example:C:\\Users\\ComputerName\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
 Windows Registry Editor Version 5.00
 ; Open files
 [HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
@@ -22,6 +20,11 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
 @="\"route\" \"%V\""
 
+
+
+
+
+change route to the app route and delete this line Example:C:\\Users\\ComputerName\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
 
 
 
